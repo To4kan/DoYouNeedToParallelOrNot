@@ -11,4 +11,5 @@
 * [Программа, которая перемножает две матрицы](https://github.com/To4kan/DoYouNeedToParallelOrNot/tree/main/MultiplyMatrices)
 * [Программа для вызова программы, которая перемножает матрицы с указание объема данных](https://github.com/To4kan/DoYouNeedToParallelOrNot/tree/main/CollectDataFromMultiplyMatrices)
 * [Сбор полученных данных в Excel](https://github.com/To4kan/DoYouNeedToParallelOrNot/tree/main/MatrixResultsCollector)
+____
 [:arrow_up:Наверх/Up](#DoYouNeedToParallelOrNot)
